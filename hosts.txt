@@ -1,0 +1,16 @@
+cf app
+https://d1hv2764lnxstu.cloudfront.net/simg
+
+app vercel
+https://aws-n7vhgx4u4-lenonmauer1s-projects.vercel.app/
+
+vercel dash
+https://vercel.com/lenonmauer1s-projects/aws-poc/Ew21SoFv5rtsGmBRzsJoN72xfxbv
+
+
+
+S3
+https://us-east-1.console.aws.amazon.com/s3/buckets/aws-poc-s3?region=us-east-1&bucketType=general&tab=objects
+
+CF
+https://us-east-1.console.aws.amazon.com/cloudfront/v4/home?region=us-east-1#/distributions/EF01DJ4VKI5ZJ
